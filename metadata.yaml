@@ -1,5 +1,8 @@
 _repo: Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1883-Fifth-Report_65609
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65609-h/images/cover_epub.jpg
 creator:
   authors:
   - agent_name: Barrington, R. M.
@@ -28,6 +31,8 @@ creator:
     gutenberg_agent_id: '53427'
     url: http://www.gutenberg.org/2009/agents/53427
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65609#Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1883-Fifth-Report
 gutenberg_issued: '2021-06-13'
 gutenberg_type: Text
 identifiers:
